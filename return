@@ -1,0 +1,36 @@
+return Statement: The return statement is used to exit a function and return a value. It can also be used to exit the main function, which indicates the successful or unsuccessful execution of the program. It can also be used to terminate a program's execution.
+
+int add(int a, int b) {
+
+    return a + b; // Return the  sum of a and b
+
+}
+
+Example:-
+
+#include <stdio.h>
+
+int add(int a, int b) {
+
+    return a + b;
+
+}
+
+int main() {
+
+    int result = add(3, 4);
+
+    printf("The result is %d\n", result);
+
+    return 0; // Indicates successful program execution
+
+}
+
+Output:
+
+The result is 7
+
+In this example, the return statement is used to exit the main function, and 0 is returned to the operating system, indicating successful program execution.
+
+These control statements are essential for writing C programs that perform different tasks based on various conditions and requirements.
+
