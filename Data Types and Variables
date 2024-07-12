@@ -1,0 +1,25 @@
+n C programming, data types are used to define the type and size of data that a variable can hold. Data types help the compiler allocate memory and interpret data correctly. C provides a variety of data types, which can be broadly categorized into the following groups:
+
+Basic Data Types:
+
+int: Integer data type. Used to store whole numbers.
+
+char: Character data type. Used to store a single character.
+
+float: Floating-point data type. Used to store real numbers with decimal points.
+
+double: Double precision floating-point data type. Used for more precision than float.
+
+void: Represents the absence of a type. It's often used in function return types.
+
+Derived Data Types:
+
+array: A collection of elements of the same data type.
+
+pointer: A variable that stores the memory address of another variable.
+
+structure (struct): A composite data type that groups variables of different data types under a single name.
+
+union: A composite data type that allows different data types to be stored in the same memory location.
+
+enum: An enumeration data type, which consists of named integer constants.
