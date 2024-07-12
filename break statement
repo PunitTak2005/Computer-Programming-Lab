@@ -1,0 +1,39 @@
+break Statement: The break statement is used to exit the innermost loop or switch statement. It is often used to terminate loops prematurely.
+
+for (int i = 0; i < 10; i++) {
+
+    if (i == 5) {
+
+        break; // Exit the loop when i is 5
+
+    }
+
+Example:- 
+
+#include <stdio.h>
+
+int main() {
+
+    for (int i = 1; i <= 5; i++) {
+
+        if (i == 3) {
+
+            break; // Exit the loop when i is 3
+
+        }
+
+        printf("%d\n", i);
+
+    }
+
+    return 0;
+
+}
+
+Output:
+
+1
+
+2
+
+In this example, the break statement is used to exit the loop when i is equal to 3, so only 1 and 2 are printed.
