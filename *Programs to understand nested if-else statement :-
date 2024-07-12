@@ -1,0 +1,48 @@
+#include <stdio.h>
+
+int main() {
+
+    int age;
+
+    char gender;
+
+   // Prompt the user to enter age and gender
+
+    printf("Enter your age: ");
+
+    scanf("%d", &age);
+
+    printf("Enter your gender (M/F): ");
+
+    scanf(" %c", &gender); // Note the space before %c to consume the newline character
+
+   // Nested if-else statements to determine eligibility
+
+    if (age >= 18) {
+
+        if (gender == 'M' || gender == 'm') {
+
+            printf("You are eligible for the men's category.\n");
+
+        } else if (gender == 'F' || gender == 'f') {
+
+            printf("You are eligible for the women's category.\n");
+
+        } else {
+
+            printf("Invalid gender input.\n");
+
+        }
+
+    } else {
+
+        printf("You are not eligible due to age.\n");
+
+    }
+
+   return 0;
+
+}
+
+In this program, we use nested if-else statements to determine eligibility for different categories based on age and gender.
+
