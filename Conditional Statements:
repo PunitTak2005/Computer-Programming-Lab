@@ -1,0 +1,12 @@
+if Statement: The if statement is used to execute a block of code only if a specified condition is true. It can also be followed by an optional else block to specify an alternative action if the condition is false.
+
+if (condition) {
+
+    // Code to execute if condition is true
+
+} else {
+
+    // Code to execute if condition is false
+
+}
+
