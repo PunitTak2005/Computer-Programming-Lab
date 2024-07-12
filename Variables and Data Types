@@ -1,0 +1,27 @@
+#include <stdio.h>
+
+int main() {
+
+    // Declaring and initializing variables of different data types
+
+    int integerVariable = 10;
+
+    float floatVariable = 3.14;
+
+    char charVariable = 'A';
+
+
+
+    // Displaying the values of these variables
+
+    printf("Integer Variable: %d\n", integerVariable);
+
+    printf("Float Variable: %f\n", floatVariable);
+
+    printf("Character Variable: %c\n", charVariable);
+
+
+
+    return 0;
+
+}
