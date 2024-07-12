@@ -1,0 +1,42 @@
+goto statement:The goto statement allows you to jump to a labeled statement within the same function. While it can be useful in some situations, it is generally discouraged in modern programming because it can lead to less structured and less readable code.
+
+Example:-
+
+#include <stdio.h>
+
+int main() {
+
+    int i = 0;
+
+start:
+
+    if (i < 5) {
+
+        printf("%d ", i);
+
+        i++;
+
+        goto start; // Jump back to the 'start' label
+
+    }
+
+    printf("\nDone!");
+
+    return 0;
+
+
+}
+
+OUTPUT:-
+
+0
+
+1
+
+2
+
+3
+
+4
+
+In this program:The program initializes an integer i to 0.It enters the loop labeled as "start."Inside the loop, it checks whether i is less than 5. If the condition is true, it prints the value of i, increments i, and then jumps back to the "start" label to repeat the loop. This process continues until i is no longer less than 5.After the loop, the program prints "Done!" and terminates.So, the program prints the numbers 0 through 4 and then the "Done!" message.
