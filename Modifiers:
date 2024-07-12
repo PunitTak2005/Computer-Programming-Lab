@@ -1,0 +1,3 @@
+signed and unsigned: Used with char or int to specify whether the type can represent both positive and negative values (signed) or only non-negative values (unsigned).
+
+short and long: Used with int to specify the range of values it can hold. short for smaller values, long for larger values.
