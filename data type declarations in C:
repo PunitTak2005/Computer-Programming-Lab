@@ -1,0 +1,41 @@
+Here are some examples of data type declarations in C:
+
+int x;          // Declares an integer variable named x.
+
+char c;         // Declares a character variable named c.
+
+float f;        // Declares a floating-point variable named f.
+
+double d;       // Declares a double-precision floating-point variable named d.
+
+void *ptr;      // Declares a void pointer.
+
+int numbers[5]; // Declares an array of integers with 5 elements.
+
+struct Person { // Declares a structure named Person.
+
+    char name[50];
+
+    int age;
+
+};
+
+enum Days {     // Declares an enumeration named Days.
+
+    Monday,
+
+    Tuesday,
+
+    Wednesday,
+
+    Thursday,
+
+    Friday,
+
+    Saturday,
+
+    Sunday
+
+};
+
+The choice of data type depends on the type of data you need to store and the memory constraints of the system. It's essential to select the appropriate data type to optimize memory usage and ensure that data is stored and processed correctly in C programs.
