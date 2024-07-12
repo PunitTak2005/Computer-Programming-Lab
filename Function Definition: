@@ -1,0 +1,11 @@
+The function definition consists of actual statements which are executed when the function is called (i.e. when the program control comes to the function. A C function is generally defined and declared in a single step because the function definition always starts with the function declaration so we do not need to declare it explicitly. The below example serves as both a function definition and a declaration.
+
+return_type function_name (para1_type para1_name, para2_type para2_name)
+
+{
+
+    // body of the function
+
+}
+
+Function Defination in C
