@@ -17,3 +17,4 @@ int main() {
     return 0;
 
 }
+In this program, we use a for loop to calculate the sum of numbers from 1 to a user-defined positive integer n. The for loop iterates through the numbers from 1 to n and accumulates their sum in the sum variable. 
