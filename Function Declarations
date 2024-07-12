@@ -1,0 +1,23 @@
+In a function declaration, we must provide the function name, its return type, and the number 
+
+and type of its parameters. A function declaration tells the compiler that there is a function with 
+
+the given name defined somewhere else in the program.
+
+Syntax:-
+
+return_type name_of_the_function (parameter_1, parameter_2);
+
+The parameter name is not mandatory while declaring functions. We can also declare the 
+
+function without using the name of the data variables.
+
+Example
+
+int sum(int a, int b);
+
+int sum(int , int);
+
+Function Declaration
+
+Note: A function in C must always be declared globally before calling it.
