@@ -1,0 +1,11 @@
+Working of the C function can be broken into the following steps as mentioned below:
+
+Declaring a function: Declaring a function is a step where we declare a function. Here we define the return types and parameters of the function.
+
+Defining a function: 
+
+Calling the function: Calling the function is a step where we call the function by passing the arguments in the function.
+
+Executing the function: Executing the function is a step where we can run all the statements inside the function to get the final result.
+
+Returning a value: Returning a value is the step where the calculated value after the execution of the function is returned. Exiting the function is the final step where all the allocated memory to the variables, functions, etc is destroyed before giving full control to the main function.
