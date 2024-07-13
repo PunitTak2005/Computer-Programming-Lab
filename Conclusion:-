@@ -1,0 +1,13 @@
+1) The function is the block of code that can be reused as many times as we want inside a program.
+
+2) To use a function we need to call a function.
+
+3) Function declaration includes function_name, return type, and parameters.
+
+4) Function definition includes the body of the function.
+
+5) The function is of two types user-defined function and library function.
+
+6) In function, we can according to two types call by value and call by reference according to the 
+
+values passed.
