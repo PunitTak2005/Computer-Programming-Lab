@@ -1,0 +1,7 @@
+We can initialize the c array at the time of declaration.
+
+int marks[5]={20,30,40,50,60}; 
+
+In such case, there is no requirement to define the size. So it may also be written as the following code.
+
+int marks[]={20,30,40,50,60}; 
