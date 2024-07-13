@@ -1,0 +1,12 @@
+
+Declaration of two dimensional Array in C:-
+
+The syntax to declare the 2D array is given below.
+
+data_type array_name[rows][columns]; 
+
+Consider the following example-
+
+int twodimen[4][3]; 
+
+Here, 4 is the number of rows, and 3 is the number of columns.
