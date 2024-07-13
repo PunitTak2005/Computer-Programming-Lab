@@ -1,0 +1,5 @@
+*Disadvantage of C Array:-
+
+1) Fixed Size: Whatever size, we define at the time of declaration of the array, we can't exceed the limit. So, it doesn't grow the size dynamically like LinkedList which we will learn later.
+
+ 
