@@ -1,0 +1,14 @@
+User Defined Function:-Functions that the programmer creates are known as User-Defined functions or “tailor-made functions”. User-defined functions can be improved and modified according to the need of the programmer. Whenever we write a function that is case-specific and is not defined in any header file, we need to declare and define our own functions according to the syntax.
+
+*Advantages of User-Defined Functions:-
+
+Changeable functions can be modified as per need.
+
+The Code of these functions is reusable in other programs.
+
+These functions are easy to understand, debug and maintain.
+
+
+Output:-
+
+Sum is: 70
