@@ -1,0 +1,9 @@
+  Declaration of C Array:-
+
+data_type array_name[array_size]; 
+
+Now, let us see the example to declare the array.
+
+int marks[5]; 
+
+Here, int is the data_type, marks are the array_name, and 5 is the array_size.
