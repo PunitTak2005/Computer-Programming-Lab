@@ -1,0 +1,47 @@
+Library Function:- Library functions are built-in functions that are grouped together and placed in a common location called library. Each function here performs a specific operation. We can use this library functions to get the pre-defined output. All C standard library functions are declared by using many header files.
+
+Example:-
+
+pow(), sqrt(), strcmp(), strcpy() etc.
+
+Advantages of C library functions
+
+1.C Library functions are easy to use and optimized for better performance.
+
+2.C library functions save a lot of time i.e, function development time.
+
+3.C library functions are convenient as they always work.
+
+Example:
+
+// C program to implement the above approach
+
+#include <math.h>
+
+#include <stdio.h>
+
+ // Driver code
+
+int main()
+
+{
+
+  double Number;
+
+  Number = 49;
+
+  // Computing the square root with the help of predefined C library function
+
+  double squareRoot = sqrt(Number);   
+
+  printf("The Square root of %.2lf = %.2lf", 
+
+          Number, squareRoot);
+
+  return 0;
+
+}
+
+Output:-
+
+The Square root of 49.00 = 7.00
