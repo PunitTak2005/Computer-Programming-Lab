@@ -1,0 +1,13 @@
+Conditions of Return Types and Arguments
+
+int function_name(int var1, int var2);
+
+In C programming language, functions can be called either with or without arguments and might return values. They may or might not return values to the calling functions.
+
+1.Function with no arguments and no return value
+
+2.Function with no arguments and with return value
+
+3.Function with argument and with no return value
+
+4.Function with arguments and with return value
