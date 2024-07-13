@@ -1,0 +1,7 @@
+Function return type tells what type of value is returned after all function is executed. When we don’t want to return a value, we can use the void data type.
+
+Example:
+
+int func(parameter_1,parameter_2);
+
+The above function will return an integer value after running statements inside the function.
