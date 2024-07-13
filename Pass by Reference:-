@@ -1,0 +1,3 @@
+Pass by Reference:-
+
+The caller’s actual parameters and the function’s actual parameters refer to the same locations, so any changes made inside the function are reflected in the caller’s actual parameters. 
