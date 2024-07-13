@@ -1,0 +1,5 @@
+*Disadvantages of Functions in C:-
+
+1) Cannot return multiple values.
+
+2) Memory and time overhead due to stack frame allocation and transfer of program control.
