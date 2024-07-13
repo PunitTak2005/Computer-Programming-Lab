@@ -1,0 +1,5 @@
+· Initialization of 2D Array in C:-
+
+In the 1D array, we don't need to specify the size of the array if the declaration and initialization are being done simultaneously. However, this will not work with 2D arrays. We will have to define at least the second dimension of the array. The two-dimensional array can be declared and defined in the following way.
+
+int arr[4][3]={{1,2,3},{2,3,4},{3,4,5},{4,5,6}};
