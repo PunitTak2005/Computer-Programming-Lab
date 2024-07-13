@@ -1,3 +1,3 @@
-# Arrays queens
+# Arrays 
 
 Learning about the Arrays
