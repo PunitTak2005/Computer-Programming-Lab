@@ -1,0 +1,5 @@
+Each element of an array is of same data type and carries the same size, i.e., int = 4 bytes.
+
+·  Elements of the array are stored at contiguous memory locations where the first element is stored at the smallest memory location.
+
+·  Elements of the array can be randomly accessed since we can calculate the address of each element of the array with the given base address and the size of the data element.
