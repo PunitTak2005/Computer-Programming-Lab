@@ -1,0 +1,13 @@
+ Initialization of C Array:-
+
+The simplest way to initialize an array is by using the index of each element. We can initialize each element of the array by using the index. Consider the following example.
+
+marks[0]=80;//initialization of array 
+
+marks[1]=60; 
+
+marks[2]=70; 
+
+marks[3]=85; 
+
+marks[4]=75; 
