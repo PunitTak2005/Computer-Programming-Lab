@@ -1,0 +1,7 @@
+1) Code Optimization: Less code to the access the data.
+
+2) Ease of traversing: By using the for loop, we can retrieve the elements of an array easily.
+
+3) Ease of sorting: To sort the elements of the array, we need a few lines of code only.
+
+4) Random Access: We can access any element randomly using the array.
